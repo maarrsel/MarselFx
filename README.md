@@ -8,7 +8,7 @@
 
 An open-source collection of visual effects, motion tools, and animation presets for **EffectCraft** and **FilmCraft**.
 
-[![Version](https://img.shields.io/badge/VERSION-3.0.0-8B5CF6?style=for-the-badge)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/VERSION-3.2.0-8B5CF6?style=for-the-badge)](CHANGELOG.md)
 [![License](https://img.shields.io/badge/LICENSE-MIT-171717?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/maarrsel/Marsel-Fx-?style=for-the-badge&color=8B5CF6)](https://github.com/maarrsel/Marsel-Fx-/stargazers)
 
